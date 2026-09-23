@@ -1,4 +1,4 @@
-# 嘉工具箱 / JiaToolBox
+# 工具箱 / JiaToolBox
 
 一个轻量级的 Windows 装机工具箱，帮助你快速部署常用软件、插件、配置和数据。
 
@@ -15,9 +15,20 @@
 
 ## 🖼️ 截图
 
-![嘉工具箱主界面](docs/screenshot.png)
+<img width="1500" height="900" alt="image" src="https://github.com/user-attachments/assets/33c6dc51-b3df-4d7c-9a91-494e0b7b6391" />
+
 
 ## 🚀 快速开始
+
+# ToolBoxApp
+## 版本选择
+1. **Full捆绑版(.exe安装包)**
+自动检测并安装.NET8，开箱即用，体积更大。
+2. **Slim绿色版(zip解压)**
+不带.NET8，解压即用。
+> 前置依赖：Windows 10/11 x64，预先安装 .NET 8 Desktop Runtime x64
+微软官方下载：https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0
+
 
 ### 下载使用
 
